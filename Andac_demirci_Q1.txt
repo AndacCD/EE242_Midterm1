@@ -1,0 +1,11 @@
+
+
+Name= andac!can
+Surname = demirci
+ASciiname = 842 
+ASciisurname = 733 
+ASciitotal = 1575
+Timernumber = 16 
+ARRNUMBER = 65535 
+Duration = 21990
+LEDPINNUMBER = 15
